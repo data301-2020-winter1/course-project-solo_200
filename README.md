@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-I will be studying the number of car collision claims in Vancouver that have occurred between 2015 and 2019. This is of particular interest to me as I live in Vancouver where ICBC terms this region as "class D." This means that we pay the highest annual insurance rate due to the amount of collisions and the 'risk' associated with driving in Vancouver. I would like to see just how many accidents actually occur per year. 
+I will be studying the number of car collision claims in Vancouver that have occurred between 2015 and 2019. This is of particular interest to me as I live in Vancouver where ICBC terms this region as "class D." This means that we pay the highest annual insurance rate due to the amount of collisions and the 'risk' associated with driving in Vancouver. I would like to see just how many accidents actually occur per year, and what the worst intersection in Vancouver for car collisions is. 
 
 ## Describe your dataset in about 150-200 words
 
