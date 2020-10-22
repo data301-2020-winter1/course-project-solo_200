@@ -9,17 +9,16 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+I will be studying the number of car collision claims in Vancouver that have occurred between 2015 and 2019. This is of particular interest to me as I live in Vancouver where ICBC terms this region as "class D." This means that we pay the highest annual insurance rate due to the amount of collisions and the 'risk' associated with driving in Vancouver. I would like to see just how many accidents actually occur per year. 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The data I will be using was acquired from Tableau Public which was collected direclty by the Insurance Corporation of British Columbia (ICBC). This dataset provides the number of car collision claims reported to ICBC that occurred at various intersections and roadways in Vancouver. The .CSV file includes the latitude and longitude (which will not be used in this project), the name of the road or intersection, the crash type (which will not be used in this project), the date, and the number of accidents that occured at this particular location. All of this data was collected from 2015 to 2019 by collision victims reporting claims to ICBC.
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Aiden: I am a third year student studying Geography and GISC.
+
 
 ## References
 
