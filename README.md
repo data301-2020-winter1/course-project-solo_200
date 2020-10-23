@@ -12,7 +12,7 @@ I will be studying the number of car collision claims in Vancouver that have occ
 
 ## Describe your dataset in about 150-200 words
 
-The data I will be using was acquired from Tableau Public which was collected direclty by the Insurance Corporation of British Columbia (ICBC). This dataset provides the number of car collision claims reported to ICBC that occurred at various intersections and roadways in Vancouver. The .CSV file includes the latitude and longitude (which will not be used in this project), the name of the road or intersection, the crash type (which will not be used in this project), the date, and the number of accidents that occured at this particular location. All of this data was collected from 2015 to 2019 by collision victims reporting claims to ICBC.
+The data I will be using was acquired from Tableau Public which was collected direclty by the Insurance Corporation of British Columbia (ICBC). This dataset provides the number of car collision claims reported to ICBC that occurred at various intersections and roadways in Vancouver. The .CSV file includes the latitude and longitude (which will not be used in this project), the name of the road or intersection, the crash type, the date, and the number of accidents that occured at this particular location. All of this data was collected from 2015 to 2019 by collision victims reporting claims to ICBC.
 
 ## Team Members
 
