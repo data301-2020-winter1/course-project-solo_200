@@ -1,7 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311312&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Solo_200 - Annual Car Accidents in Vancouver; Where is the Worst Intersection?
 
-- Your title can change over time.
 
 ## Milestones
 
@@ -17,9 +16,11 @@ The data I will be using was acquired from Tableau Public which was collected di
 
 ## Team Members
 
-- Aiden: I am a third year student studying Geography and GISC.
+I am a third year student studying Geography and GISC.
 
 
 ## References
 
-{Add your stuff here}
+Data acquired through:
+Tableau Public. (2020). Retrieved 23 October 2020, from https://public.tableau.com/profile/icbc#!/vizhome/LowerMainlandCrashes/LMDashboard
+
