@@ -1,7 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311312&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Solo_200 - Annual Car Accidents in Vancouver; Where is the Worst Intersection?
 
-- Your title can change over time.
 
 ## Milestones
 
@@ -13,13 +12,15 @@ I will be studying the number of car collision claims in Vancouver that have occ
 
 ## Describe your dataset in about 150-200 words
 
-The data I will be using was acquired from Tableau Public which was collected direclty by the Insurance Corporation of British Columbia (ICBC). This dataset provides the number of car collision claims reported to ICBC that occurred at various intersections and roadways in Vancouver. The .CSV file includes the latitude and longitude (which will not be used in this project), the name of the road or intersection, the crash type (which will not be used in this project), the date, and the number of accidents that occured at this particular location. All of this data was collected from 2015 to 2019 by collision victims reporting claims to ICBC.
+The data I will be using was acquired from Tableau Public which was collected direclty by the Insurance Corporation of British Columbia (ICBC). This dataset provides the number of car collision claims reported to ICBC that occurred at various intersections and roadways in Vancouver. The .CSV file includes the latitude and longitude (which will not be used in this project), the location (name of the road or intersection), the municipality, the crash type, the date, and the number of accidents that occured at this particular location. All of this data was collected from 2015 to 2019 by collision victims reporting claims to ICBC.
 
 ## Team Members
 
-- Aiden: I am a third year student studying Geography and GISC.
+I am a third year student studying Geography and GISC.
 
 
 ## References
 
-{Add your stuff here}
+Data acquired through:
+Tableau Public. (2020). Retrieved 23 October 2020, from https://public.tableau.com/profile/icbc#!/vizhome/LowerMainlandCrashes/LMDashboard
+
