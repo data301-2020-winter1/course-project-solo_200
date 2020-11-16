@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ## Research Questions:
-### 1. How many car accidents occur in Vancouver per year on average?
-### 2. From 2015 to 2019, what year had the most accidents?
-### 3. Where in Vancouver did most accidents occur?
+### 1. What US state has the most fast food restaurants?
+### 2. What fast food restaurant has the most locations nationally?
+### 3. What state has the least fast food restaurants?
+
+=======
+
+This directory will include the exploratory data analysis that will gain a general understanding of the dataset at hand. 
+This directory will also include the project's main analysis which will answer the three (3) research questions.
