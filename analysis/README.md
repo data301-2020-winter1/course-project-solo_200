@@ -1,8 +1,13 @@
 <<<<<<< HEAD
 ## Research Questions:
-### 1. What US state has the most fast food restaurants?
-### 2. What fast food restaurant has the most locations nationally?
-### 3. What state has the least fast food restaurants?
+### 1. What are the ten most common fast food restaurants in the US?
+
+### 2. What city has the most(per capita):
+### - McDonalds
+### - Taco Bells
+### - Burger Kings
+
+### 3. What state has the most and what city has the least fast food restaurants per capita?
 
 =======
 
